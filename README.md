@@ -1,4 +1,4 @@
-# Toy_Gandalf Chatbot Repository
+# Toy_Gandalf Chatbot
 
 Toy_Gandalf is a fun and interactive chatbot implemented using the OpenAI API. The chatbot challenges users to guess a password that it's hiding, with four different difficulty levels: "Easy", "Medium", "Hard", and "Hell". Players can have an enjoyable time trying to crack the password while interacting with the chatbot.
 
