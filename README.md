@@ -38,7 +38,7 @@ Simply ask the chatbot and see if you can get the answer from his response, type
 - Hell: Only the bravest should attempt this level. The password will be extremely hard to guess.
 
 ## Chatbot Language Models
-Toy_Gandalf includes two different language models, Turbo-3.5 and Davinci 3.0. Players can choose between them. Turbo-3.5 is faster and suitable for most interactions, while Davinci 3.0 provides a more sophisticated and nuanced conversation experience.
+Toy_Gandalf includes two different language models, gpt-3.5-turbo and Davinci 3.0. Players can choose between them. Turbo-3.5 is faster and suitable for most interactions, while Davinci 3.0 provides a more sophisticated and nuanced conversation experience.
 
 ## Under Development
 Please note that the conversation mode in Toy_Gandalf is still under development. There might be occasional hiccups or limitations in the chatbot's responses. I encourage you to try it out and provide me with feedback so I can continue improving the chatbot.
