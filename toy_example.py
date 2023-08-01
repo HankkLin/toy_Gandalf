@@ -13,11 +13,7 @@ import time
 
 _ = load_dotenv(find_dotenv()) # read local .env file
 
-def get_openai_secret_key():
-    data = requests.get(url=config_example.URL, params=config_example.PARAMS).json()
-    return data["openai_secret_key"]
-
-openai.api_key  = get_openai_secret_key()
+openai.api_key  = config.openAI_key
 
 
 # %% [markdown]
