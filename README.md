@@ -26,7 +26,7 @@ python app.py
 ## How to Play
 Once the chatbot is running, it will present you with different difficulty levels to choose from: "Easy", "Medium", "Hard", and "Hell". Each difficulty level has its own unique prompt and password to guess.
 
-Simply type your guesses into the chatbot's interface, and it will provide feedback on whether your guess is correct or not. Keep guessing until you find the correct password or give up!
+Simply ask the chatbot and see if you can get the answer from his response, type in your guesses into the chatbot's interface, and it will provide feedback on whether your guess is correct or not. Keep guessing until you find the correct password or give up!
 
 ## Difficulty Levels
 - Easy: A simple and straightforward level to get you warmed up.
@@ -37,9 +37,18 @@ Simply type your guesses into the chatbot's interface, and it will provide feedb
 
 - Hell: Only the bravest should attempt this level. The password will be extremely hard to guess.
 
+## Chatbot Language Models
+Toy_Gandalf includes two different language models, Turbo-3.5 and Davinci 3.0. Players can choose between them. Turbo-3.5 is faster and suitable for most interactions, while Davinci 3.0 provides a more sophisticated and nuanced conversation experience.
+
+## Under Development
+Please note that the conversation mode in Toy_Gandalf is still under development. There might be occasional hiccups or limitations in the chatbot's responses. I encourage you to try it out and provide me with feedback so I can continue improving the chatbot.
+
+
 ## Acknowledgments
 I would like to extend our gratitude to OpenAI for providing the powerful API that makes Toy_Gandalf possible.
 
 Toy_Gandalf is a toy version inspired by the original "Gandalf" chatbot created by Lakera. I acknowledge the creative work done by Lakera, which served as the foundation for this fun and interactive project.
+
+Feel free to try the chatbot and let me know what you think! Your feedback is valuable to me as I work to enhance the chatbot's capabilities and make it an even more enjoyable experience for players.
 
 Happy guessing! 🧙‍♂️
